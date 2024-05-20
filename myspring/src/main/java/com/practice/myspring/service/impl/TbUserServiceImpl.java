@@ -3,10 +3,12 @@ package com.practice.myspring.service.impl;
 import com.practice.myspring.domain.TbUser;
 import com.practice.myspring.repository.TbUserRepository;
 import com.practice.myspring.service.TbUserService;
+import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
 import java.util.Map;
 
+@Service
 public class TbUserServiceImpl implements TbUserService {
 
     private final TbUserRepository tbUserRepository;
@@ -17,7 +19,6 @@ public class TbUserServiceImpl implements TbUserService {
         this.tbUserRepository = tbUserRepository;
     }
 
-    @Override
     public Map<String, Object> create(Map<String, Object> param) {
         Map<String, Object> returnMap = new HashMap<String, Object>();
         System.out.println(param);
@@ -27,7 +28,6 @@ public class TbUserServiceImpl implements TbUserService {
         return null;
     }
 
-    @Override
     public Map<String, Object> update(Map<String, Object> param) {
         Map<String, Object> returnMap = new HashMap<String, Object>();
         System.out.println(param);
@@ -50,7 +50,6 @@ public class TbUserServiceImpl implements TbUserService {
         return returnMap;
     }
 
-    @Override
     public Map<String, Object> get(String id) {
         Map<String , Object> returnMap = new HashMap<String, Object>();
         System.out.println(id);
