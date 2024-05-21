@@ -19,7 +19,7 @@
 
 ### 전체구조
 
-![https://user-images.githubusercontent.com/96133075/217034315-b60125ed-3500-44d2-8c7b-836b54b7fbfb.png)
+![Spring 전체구조](https://user-images.githubusercontent.com/96133075/217034315-b60125ed-3500-44d2-8c7b-836b54b7fbfb.png)
 
 ### 실전 따라가기 순서
 
