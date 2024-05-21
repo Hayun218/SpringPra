@@ -19,7 +19,7 @@
 
 ### 전체구조
 
-![217034315-b60125ed-3500-44d2-8c7b-836b54b7fbfb.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/538a44f3-a7f8-4278-978a-a7f85bdbb807/ea2e18a3-3785-4fd2-828c-c0d32a09973c/217034315-b60125ed-3500-44d2-8c7b-836b54b7fbfb.png)
+![https://user-images.githubusercontent.com/96133075/217034315-b60125ed-3500-44d2-8c7b-836b54b7fbfb.png)
 
 ### 실전 따라가기 순서
 
